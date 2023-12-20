@@ -1,7 +1,7 @@
 # To Run
-`cd time-chart`
-`npm install`
-`npm run dev`
+`cd time-chart` <br />
+`npm install` <br />
+`npm run dev` <br />
 Open http://localhost:5173/ to run
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
