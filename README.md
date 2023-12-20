@@ -1,4 +1,8 @@
-# React + TypeScript + Vite
+# To Run
+`cd time-chart`
+`npm install`
+`npm run dev`
+Open http://localhost:5173/ to run
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
